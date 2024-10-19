@@ -1,3 +1,0 @@
-describe("String Calculator", () => {
-
-})
